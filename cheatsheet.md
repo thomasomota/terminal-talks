@@ -8,7 +8,7 @@
 | `ls -a`            | Vise innhold i nåværende mappe uten å ignorere filer som starter med . ( punktum )|
 | `pwd`              | "Print working directory"                   |
 | `cat filnavn.txt`  | Skriver ut innholdet i filen `filnavn.txt`  |
-| `cd nymappe`       | Navigerer inn i mappen `nymappe`            |
+| `cd minMappe`      | Navigerer inn i mappen `minMappe`           |
 | `cd ..`            | Gå et hakk opp i filhierarkiet              |
 | `cd -`             | Gå tilbake til forrige mappe du var i       |
 | `.`                | Punktum viser til nåværende mappe           |
