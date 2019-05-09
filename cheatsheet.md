@@ -11,6 +11,7 @@
 | `cd minMappe`      | Navigerer inn i mappen `minMappe`           |
 | `cd ..`            | Gå et hakk opp i filhierarkiet              |
 | `cd -`             | Gå tilbake til forrige mappe du var i       |
+| `cd`               | Naviger tilbake til hjemmeområdet           |
 | `.`                | Punktum viser til nåværende mappe           |
 | `~`                | Viser til `home` mappen                     |
 
