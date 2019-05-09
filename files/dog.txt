@@ -1,0 +1,5 @@
+Hello! You probably used `cat` to view the dog file, good job.
+
+Anyways, your next task is to delete the annoying directory that
+is located in the same folder as this file.
+

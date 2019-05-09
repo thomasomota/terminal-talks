@@ -24,6 +24,7 @@
 | Kommando           | Gjør hva?                                   |
 |--------------------|---------------------------------------------|
 | `rm filename.txt`  | Sletter filen med navn `filename.txt`.      |
-| `rm -r /dir/`      | Sletter mappen ved navn dir. `r` står for `recursive` |
+| `rm -r dir/`       | Sletter mappen ved navn dir. `r` står for `recursive` |
+| `mkdir dir`        | Oppretter en mappe kalt `dir`|
 | `vim filename.txt` | Åpner filen `filename.txt` i gudenes gave, `vim`|
 | `nano filename.txt`| Åpner filen `filename.txt` i søppeleditoren `nano`|
