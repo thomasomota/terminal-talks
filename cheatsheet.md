@@ -20,6 +20,7 @@
 |--------------------|---------------------------------------------|
 | `touch nyfil.txt`  | Lag en fil med navn `nyfil.txt`             |
 | `rm filename.txt`  | Sletter filen med navn `filename.txt`.      |
+| `rm dir/*`         | Sletter alle filer i mappen `dir`|
 | `rm -r dir/`       | Sletter mappen ved navn dir. `r` står for `recursive` |
 | `mkdir dir`        | Oppretter en mappe kalt `dir`               |
 | `vim filename.txt` | Åpner filen `filename.txt` i gudenes gave, `vim`|
