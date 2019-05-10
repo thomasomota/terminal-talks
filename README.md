@@ -44,5 +44,6 @@ Setup:
 Situation: 
 3. Du rydder opp i filene dine, og har lyst til å slette alle loggfiler. 
 4. Uten å navigere, slett *kun* filene som starter med `log` i mappen `EXPERT`, ved å bruke `*` syntaxen. 
+5. Naviger til mappen `EXPERT` og endre navnet på `summary.txt` til `old_summary.txt`. Dette kan gjøres ved å bruke `mv` kommandoen. 
 
 
