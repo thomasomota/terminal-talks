@@ -25,4 +25,22 @@ i mappen `terminal-talks`.
 flytt filene inn i denne nye mappen.
 2. Om man tenker seg litt om, så ble det ikke så mye ryddigere å bare flytte
 filene i en ny mappe. Nå er vi jo like langt! Slett alle filene i `much_tidier`,
-men behold selve mappen.
+men behold selve mappen
+
+
+cd ls cat mkdir touch cd mv 
+
+
+## Oppgave 3 
+
+Kommer du hit må du kanskje på internettet for å finne fram. url{https://stackoverflow.com/}{Stackoverflow} har svaret 
+
+Setup: 
+0. Gå til hjemmeområde ditt, men du har kun lov til å bruke 2 karakterer 
+1. Naviger inn i mappen terminal-talks og lag en ny mappe som heter `EXPERT`
+2. lag tre filer som heter `log_sshlog.txt`, `log_dirlog.txt`, `summary.txt` 
+3. Naviger til hjemmeområdet 
+
+Situation: 
+3. Du rydder opp i filene dine, og har lyst til å slette alle loggfiler. 
+4. Uten å navigere, slett *kun* filene som starter med `log` i mappen `EXPERT`, ved å bruke `*` syntaxen. 
