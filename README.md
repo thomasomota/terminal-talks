@@ -33,7 +33,7 @@ cd ls cat mkdir touch cd mv
 
 ## Oppgave 3 
 
-Kommer du hit må du kanskje på internettet for å finne fram. url{https://stackoverflow.com/}{Stackoverflow} har svaret 
+Kommer du hit må du kanskje ha hjelp for å finne fram. Spør personen ved siden av deg, eller så har enten vi eller https://stackoverflow.com svaret
 
 Setup: 
 0. Gå til hjemmeområde ditt, men du har kun lov til å bruke 2 karakterer 
@@ -44,3 +44,5 @@ Setup:
 Situation: 
 3. Du rydder opp i filene dine, og har lyst til å slette alle loggfiler. 
 4. Uten å navigere, slett *kun* filene som starter med `log` i mappen `EXPERT`, ved å bruke `*` syntaxen. 
+
+
