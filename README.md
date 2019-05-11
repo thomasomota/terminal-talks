@@ -2,6 +2,9 @@
 
 Velkommen til Terminal-Talks! 
 
+Dette er oppgavene som skal gjennomføres under kurset, du gjør det du rekker også kan du gjøre resten på egen hånd om du vil! 
+Blir du tidlig ferdig 
+
 ## Oppgave 1
 Oppgavene forutsetter at du starter i root-folderen av dette repoet. Altså
 i mappen `terminal-talks`.
