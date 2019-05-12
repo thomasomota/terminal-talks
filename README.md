@@ -58,7 +58,16 @@ Situation:
 
 ## Videregående Oppgave 2 
 
-1. 
+1. Naviger til `Pro` mappen i `terminal-talks`
+2. Her finner du en fil som heter `alice.txt`, som inneholder teksten til Alice in wonderland
+3. Print ut linjene i teksten som inneholder `Alice`. Bruk `cat`, `pipes` ( eller `|` ) og `grep`
+
+## Videregående Oppgave 2 
+
+1. Naviger til `Pro` mappen i `terminal-talks`
+2. Her finner du en fil som heter `alice.txt`, som inneholder teksten til Alice in wonderland
+3. Print ut linjene i teksten som inneholder `Alice`. Bruk `cat`, `pipes` ( eller `|` ) og `grep`
+
 
 
 
