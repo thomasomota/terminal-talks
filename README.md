@@ -2,7 +2,10 @@
 
 Velkommen til Terminal-Talks! 
 
-## Oppgave 1
+Dette er oppgavene som skal gjennomføres under kurset, du gjør det du rekker også kan du gjøre resten på egen hånd om du vil! 
+Blir du tidlig ferdig 
+
+## Basics Oppgave 1
 Oppgavene forutsetter at du starter i root-folderen av dette repoet. Altså
 i mappen `terminal-talks`.
 
@@ -18,7 +21,7 @@ i mappen `terminal-talks`.
 8. Gå tilbake til mappen vi begynte i. 
 9. Gratulerer, du har fullført oppgave 1!
 
-## Oppgave 2
+## Basics Oppgave 2
 
 0. Gå inn i mappen kalt `more_files`.
 1. Her ligger det alt for mange filer! Lag en ny mappe kalt `much_tidier` og
@@ -31,7 +34,7 @@ men behold selve mappen
 cd ls cat mkdir touch cd mv 
 
 
-## Oppgave 3 
+## Basics Oppgave 3 
 
 Kommer du hit må du kanskje ha hjelp for å finne fram. Spør personen ved siden av deg, eller så har enten vi eller https://stackoverflow.com svaret
 
@@ -47,3 +50,18 @@ Situation:
 5. Naviger til mappen `EXPERT` og endre navnet på `summary.txt` til `old_summary.txt`. Dette kan gjøres ved å bruke `mv` kommandoen. 
 
 
+## Videregående Oppgave 1 
+
+1. Du lurer fælt på hva som kjører på hjemmeområdet ditt på NTNU, sjekk hva som kjører! 
+2. Hmm.. Informasjonen oppdateres kun hvert tredje sekund, det er ikke godt nok! Få `top` til å oppdate hvert sekund. Usikker på hvordan det gjøres? Sjekk `man top`. Fant du ikke svaret der? https://www.google.com/ 
+3. Herlig, nå er du ekspert på   `top`
+
+## Videregående Oppgave 2 
+
+1. Naviger til `Pro` mappen i `terminal-talks`
+2. Her finner du en fil som heter `alice.txt`, som inneholder teksten til Alice in wonderland
+3. Print ut linjene i teksten som inneholder `Alice`. Bruk `cat`, `pipes` ( eller `|` ) og `grep`
+
+## Avsluttende Oppgave 3 
+
+1. Slett det du vil slette, og bruk `exit` for å komme deg ut av serveren og tilbake til din lokale maskin. 
