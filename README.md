@@ -66,8 +66,8 @@ Situation:
 
 1. Naviger til `more-files` mappen i `terminal-talks`
 2. List opp alle filnavnene i mappen med `ls`
-3. Bruk pipes og `cut` vekk alt annet enn tallet i filnavnet. Hint: med å bruke -d optionen kan du velge hvilken karakter som det kuttes på. 
-4. Bruk outputet videre og pipe det inn i `sort` metoden slik at det sorteres på nummer ( hint, sjekk `man` for å se hvilken options som må brukes )
+3. Bruk pipes og `cut` vekk alt annet enn tallet i filnavnet. Hint: med å bruke -d optionen kan du velge hvilken karakter som det kuttes på. For eksempel kutte på bindestrek og velge første av de 2 delene: `cut -d "." -f 1` 
+4. Bruk outputet videre og pipe det inn i `sort` metoden slik at det sorteres på nummer ( hint, sjekk `man` for å se hvilken options som må brukes ) 
 
 ## Avsluttende Oppgave 4
 
