@@ -56,12 +56,19 @@ Situation:
 2. Hmm.. Informasjonen oppdateres kun hvert tredje sekund, det er ikke godt nok! Få `top` til å oppdate hvert sekund. Usikker på hvordan det gjøres? Sjekk `man top`. Fant du ikke svaret der? https://www.google.com/ 
 3. Herlig, nå er du ekspert på   `top`
 
-## Videregående Oppgave 2 
+## Videregående Oppgave 2
 
 1. Naviger til `Pro` mappen i `terminal-talks`
 2. Her finner du en fil som heter `alice.txt`, som inneholder teksten til Alice in wonderland
 3. Print ut linjene i teksten som inneholder `Alice`. Bruk `cat`, `pipes` ( eller `|` ) og `grep`
 
-## Avsluttende Oppgave 3 
+## Videregående Oppgave 3
+
+1. Naviger til `more-files` mappen i `terminal-talks`
+2. List opp alle filnavnene i mappen med `ls`
+3. Bruk pipes og `cut` vekk alt annet enn tallet i filnavnet. Hint: med å bruke -d optionen kan du velge hvilken karakter som det kuttes på. 
+4. Bruk outputet videre og pipe det inn i `sort` metoden slik at det sorteres på nummer ( hint, sjekk `man` for å se hvilken options som må brukes )
+
+## Avsluttende Oppgave 4
 
 1. Slett det du vil slette, og bruk `exit` for å komme deg ut av serveren og tilbake til din lokale maskin. 
