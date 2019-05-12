@@ -35,6 +35,3 @@
 | `man top` | Åpner manualen for top. Kan brukes med de fleste andre kommandoer|
 | `grep tilfeldig-ord` | printer ut linjer som inneholder `tilfeldig-ord`|
 | `pipes` sender output fra forrige kommando inn til neste kommando |
-
-
-``
