@@ -26,3 +26,11 @@
 | `mkdir dir`        | Oppretter en mappe kalt `dir`               |
 | `vim filename.txt` | Åpner filen `filename.txt` i gudenes gave, `vim`|
 | `nano filename.txt`| Åpner filen `filename.txt` i søppeleditoren `nano`|
+
+## Kommandoer som er kjekt å kunne!
+
+| Kommando           | Gjør hva?                                   |
+|--------------------|---------------------------------------------|
+| `top`  | Åpner en oversikt over prosesser som kjører på maskinen |
+| `man top` | Åpner manualen for top. Kan brukes med de fleste andre kommandoer|
+
