@@ -34,6 +34,9 @@ men behold selve mappen
 cd ls cat mkdir touch cd mv 
 
 
+
+kjør git checkout . 
+
 ## Basics Oppgave 3 
 
 Kommer du hit må du kanskje ha hjelp for å finne fram. Spør personen ved siden av deg, eller så har enten vi eller https://stackoverflow.com svaret
